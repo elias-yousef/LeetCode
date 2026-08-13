@@ -1,4 +1,5 @@
 # 0ms
+
 class Solution:
     def multiply(self, num1: str, num2: str) -> str:
         num1 = int(num1)

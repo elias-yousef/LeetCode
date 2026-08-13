@@ -1,4 +1,5 @@
 # Runtime 0ms beats 100%
+
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
         s = s.strip()

@@ -1,5 +1,6 @@
 # Runtime beats 17%
 # memory beats 76%
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         s = s.lower()
